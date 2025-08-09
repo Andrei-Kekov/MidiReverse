@@ -1,8 +1,7 @@
 {
   "profiles": {
     "MidiReverse": {
-      "commandName": "Project",
-      "commandLineArgs": "\"I:\\Музыка\\Саундтреки к играм\\MIDI\\Descent\""
+      "commandName": "Project"
     }
   }
 }
