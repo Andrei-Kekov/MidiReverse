@@ -1,5 +1,5 @@
 # MidiReverse
-A simple console app that reverses MIDI files, i.e. makes files that are played backwards.
+A simple console app that reverses MIDI files, i.e. makes files that are played backwards. Should work properly with Time Divisions, Tempo, Program, and Control changes.
 
 Usage:
 
