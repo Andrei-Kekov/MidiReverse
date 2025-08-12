@@ -43,11 +43,6 @@ namespace MidiReverse
                 }
             }
 
-            var settings = new ReadingSettings
-            {
-                InvalidChannelEventParameterValuePolicy = InvalidChannelEventParameterValuePolicy.ReadValid
-            };
-
             string[] files;
 
             if (_mode == Mode.Directory)
